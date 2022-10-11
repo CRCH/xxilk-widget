@@ -34,16 +34,16 @@ This component is not prod-ready as requires some additional work done:
 
 ### Script tag
 
-- Put a script tag similar to this `<script type='module' src='https://unpkg.com/widget-xxilk@0.0.1/dist/widget-xxilk.esm.js'></script>` in the head of your index.html
+- Put a script tag similar to this `<script type='module' src='https://unpkg.com/browse/xxilk-widget@0.0.2/dist/xxilk-widget/xxilk-widget.esm.js'></script>` in the head of your index.html
 - Then you can use the element anywhere in your template, JSX, html etc
 `<widget-xxilk amount="5000" language="en" hash="55b7d52b-020e-4143-bc69-3292b5002cf2"></widget-xxilk>`
 
 ### Node Modules
-- Run `npm install widget-xxilk --save`
-- Put a script tag similar to this `<script type='module' src='node_modules/widget-xxilk/dist/widget-xxilk.esm.js'></script>` in the head of your index.html
+- Run `npm install xxilk-widget --save`
+- Put a script tag similar to this `<script type='module' src='node_modules/widget-xxilk/dist/xxilk-widget/xxilk-widget.esm.js'></script>` in the head of your index.html
 - Then you can use the element anywhere in your template, JSX, html etc
 
 ### In a stencil-starter app
-- Run `npm install widget-xxilk --save`
-- Add an import to the npm packages `import widget-xxilk;`
+- Run `npm install xxilk-widget --save`
+- Add an import to the npm packages `import xxilk-widget;`
 - Then you can use the element anywhere in your template, JSX, html etc
