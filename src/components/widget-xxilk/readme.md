@@ -1,12 +1,17 @@
-# xxilk-widget
+# widget-xxilk
+
+
+
+<!-- Auto Generated Below -->
+
 
 ## Properties
 
-| Property | Attribute | Description     | Type     | Default     |
-| -------- | --------- | --------------- | -------- | ----------- |
-| `amount`  | `amount`   | amount in cents  | `number` | `undefined` |
-| `language`   | `language`    | language   | `string` | `undefined` |
-| `hash` | `hash`  | hash required for API call | `string` | `undefined` |
+| Property   | Attribute  | Description | Type                           | Default     |
+| ---------- | ---------- | ----------- | ------------------------------ | ----------- |
+| `amount`   | `amount`   |             | `number`                       | `undefined` |
+| `hash`     | `hash`     |             | `string`                       | `undefined` |
+| `language` | `language` |             | `"en" \| "lt" \| "lv" \| "ru"` | `undefined` |
 
 
 ----------------------------------------------

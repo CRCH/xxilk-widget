@@ -2,7 +2,7 @@ import { Config } from '@stencil/core';
 import { inlineSvg } from 'stencil-inline-svg';
 
 export const config: Config = {
-  namespace: 'widget-xxilk',
+  namespace: 'xxilk-widget',
   outputTargets: [
     {
       type: 'dist',

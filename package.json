@@ -1,6 +1,6 @@
 {
   "name": "xxilk-widget",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "xxilk-widget homework",
   "main": "dist/index.cjs.js",
   "module": "dist/index.js",
