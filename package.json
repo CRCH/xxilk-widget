@@ -1,7 +1,7 @@
 {
-  "name": "xxilk-widget",
+  "name": "widget-xxilk",
   "version": "0.0.2",
-  "description": "xxilk-widget homework",
+  "description": "widget-xxilk homework",
   "main": "dist/index.cjs.js",
   "module": "dist/index.js",
   "es2015": "dist/esm/index.mjs",
